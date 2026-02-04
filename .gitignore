@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Test artifacts
+results.xml
+
+# Database
+test_results.db
